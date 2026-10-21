@@ -125,13 +125,13 @@ A project focused on digitizing school administration and academic workflows.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Dev2163&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="Dev Suthar's GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=Dev2163&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
     height="180"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev2163&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    alt="Most Used Programming Languages"
+    alt="Most Used Languages"
     height="180"
   />
 </p>
@@ -141,14 +141,6 @@ A project focused on digitizing school administration and academic workflows.
     src="https://streak-stats.demolab.com?user=Dev2163&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
     width="75%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dev2163&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
-    alt="Dev Suthar's GitHub Contribution Activity Graph"
-    width="95%"
   />
 </p>
 
