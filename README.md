@@ -1,94 +1,125 @@
-# Hey, I'm Dev Suthar 👋
 
-### React Native Developer | Mobile App Developer | Full-Stack Enthusiast
+<!-- ==================== PROFILE HEADER ==================== -->
 
-I’m an MCA graduate and developer passionate about building useful, responsive, and user-friendly applications. I enjoy developing mobile apps, integrating REST APIs, debugging complex issues, and turning ideas into practical products.
+<h1 align="center">Hey there, I'm Dev Suthar 👋</h1>
 
-- 🔭 **Currently focused on:** React Native, Expo & Mobile App Development
-- 📱 **Mobile:** React Native, Flutter & Dart
-- ⚙️ **Backend & APIs:** Node.js, Express.js, REST APIs
-- 🔥 **Database & Services:** Firebase, Supabase, MongoDB, PostgreSQL
-- 🧪 **Also exploring:** Testing, performance optimization & clean architecture
-- 💼 **Experience:** 6-month Android Developer internship at CodFleet
-- 🌐 **Portfolio:** [deeesp.vercel.app](https://deeesp.vercel.app/)
-- 📍 **Location:** Gujarat, India
+<h3 align="center">
+  React Native Developer | Mobile App Developer | Full-Stack Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Building+Mobile+Applications;React+Native+%7C+Expo+%7C+Flutter;Turning+Ideas+Into+Real+Products;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dev2163">
+    <img src="https://komarev.com/ghpvc/?username=Dev2163&label=Profile%20Views&color=70A5FD&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Dev2163?tab=followers">
+    <img src="https://img.shields.io/github/followers/Dev2163?style=for-the-badge&logo=github&color=70A5FD" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MCA graduate from CHARUSAT, Gujarat.
+- 📱 Interested in building reliable and user-friendly mobile applications.
+- 💼 Completed a 6-month Android Developer internship at CodFleet.
+- ⚛️ Working with React Native, Expo, Flutter, and modern JavaScript.
+- 🔌 Experienced with REST API integration, Firebase, and application debugging.
+- 🛠️ Enjoy solving problems, improving UI, and learning new technologies.
+- 🌱 Currently strengthening my mobile development and software engineering skills.
+- 🤝 Open to opportunities in React Native, Flutter, and frontend development.
+- 📍 Based in Gujarat, India.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile Development**
+### 📱 Mobile Development
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
-**Frontend Development**
+### 🌐 Frontend Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**Backend, Database & Tools**
+### ⚙️ Backend, Database & Tools
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📱 FixSnap — Home Service Platform
-A service marketplace project designed to connect customers with service providers.
 
-- Developed the frontend using Flutter.
-- Worked with Supabase, Node.js, Express.js and MongoDB Atlas.
-- Implemented API integration and role-based user workflows.
+A service marketplace designed to connect customers with service providers.
 
-**Tech:** Flutter · Dart · Supabase · Node.js · MongoDB
+- Developed the Flutter frontend.
+- Integrated backend APIs and database services.
+- Worked on authentication and role-based user workflows.
+
+**Technologies:** Flutter · Dart · Supabase · Node.js · Express.js · MongoDB
 
 ### 🍔 Codit — Food & Delivery Ecosystem
-A mobile and web-based project focused on food delivery and logistics workflows.
+
+A mobile and web project focused on food delivery and logistics workflows.
 
 - Worked with React Native and Expo.
-- Used REST APIs and Firebase integrations.
+- Integrated REST APIs and Firebase services.
 - Contributed to application UI and feature development.
 
-**Tech:** React Native · Expo · TypeScript · React · Firebase
+**Technologies:** React Native · Expo · TypeScript · React · Firebase
 
 ### 🏫 School Management System
-A school management project focused on digitizing academic and administrative workflows.
 
-- Student and academic data management.
-- Fee management and related administrative features.
+A project focused on digitizing school administration and academic workflows.
+
+- Student and academic information management.
+- Fee management and administrative features.
 - Frontend and backend integration.
 
-**Tech:** React · Node.js · Express.js · Database technologies
+**Technologies:** React · Node.js · Express.js · Database technologies
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-**Android Developer Intern — CodFleet**
+### Android Developer Intern — CodFleet
 
-*January 2026 – June 2026*
+**January 2026 – June 2026**
 
-- Worked on mobile application development using React Native and Expo.
+- Contributed to mobile application development using React Native and Expo.
 - Integrated REST APIs and worked with Firebase.
-- Built and improved application UI components.
-- Debugged issues and supported testing and Android build preparation.
-- Collaborated using Git and GitHub.
+- Developed and improved mobile UI components.
+- Debugged application issues and supported testing.
+- Worked with Git and GitHub for version control.
+- Assisted with Android build and deployment preparation.
 
 ---
-
 
 ## 📊 GitHub Overview
 
@@ -98,7 +129,6 @@ A school management project focused on digitizing academic and administrative wo
     alt="Dev Suthar's GitHub Statistics"
     height="180"
   />
-  &nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev2163&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
     alt="Most Used Programming Languages"
@@ -122,22 +152,40 @@ A school management project focused on digitizing academic and administrative wo
   />
 </p>
 
+---
+
+## 🎯 Current Focus
+
+- Building better React Native applications.
+- Improving mobile UI performance and responsiveness.
+- Strengthening API integration and debugging skills.
+- Learning better testing practices and maintainable architecture.
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  <i>Consistently learning, building, and contributing. 🚀</i>
+  <a href="https://deeesp.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/devsuthar21">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Dev2163">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:devsp2106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-
 ---
 
-## 🤝 Let's Connect
+<p align="center">
+  <i>"Build with purpose. Learn continuously. Improve every day."</i> 🚀
+</p>
 
-I'm open to opportunities in mobile app development, React Native, Flutter, and frontend development.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deeesp.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsuthar21)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev2163)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsp2106@gmail.com)
-
----
-
-*“Building useful products, solving problems, and learning something new every day.”* 🚀
+<p align="center">
+  ⭐ If you find my work interesting, feel free to explore my repositories!
+</p>
