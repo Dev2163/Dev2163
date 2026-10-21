@@ -146,8 +146,8 @@ A project focused on digitizing school administration and academic workflows.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dev2163&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dev2163&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+    alt="Dev Suthar's GitHub Contribution Activity Graph"
     width="95%"
   />
 </p>
