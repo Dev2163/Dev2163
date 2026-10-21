@@ -89,13 +89,43 @@ A school management project focused on digitizing academic and administrative wo
 
 ---
 
+
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev2163&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dev2163&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Dev Suthar's GitHub Statistics"
+    height="180"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev2163&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    alt="Most Used Programming Languages"
+    height="180"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev2163&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Dev2163&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="75%"
+  />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dev2163&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dev2163&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <i>Consistently learning, building, and contributing. 🚀</i>
+</p>
+
 
 ---
 
